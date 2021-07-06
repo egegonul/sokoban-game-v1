@@ -1,6 +1,6 @@
 # Description
 
-Note: This is is the first version of the game where stack of the game is implemented as an array.
+Note: This is is the **first** version of the game where the stackqueue in the code is implemented as an array.
 
 ![](images/fig1.PNG)
 
